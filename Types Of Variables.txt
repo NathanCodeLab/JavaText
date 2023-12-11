@@ -1,0 +1,32 @@
+Types Of Variables:
+-------------------
+1.Local Variable
+2.Instance Variable
+3.Static Variable
+
+
+1.Local Variable:
+-----------------
+1.it is declare inside the method block or constructor.
+2.it get activated when the control enters to the method and de-activated when the control exits the method.
+3.it is stored in stack memory.
+4.we can't declare any access specifier for the local variable.
+5.we need to initialize the value before it use
+
+
+2.Instance Variable:
+--------------------
+1.it is declare inside the class and outside the method.
+2.it get activated when the object is created and de-activated when the object is destroyed.
+3.it is stored in heap memory.
+4.we can declare any access specifier for instance variable. 
+5.we no need to initialize the value for instance variable it take default value automatically
+
+
+3.Static Variable:
+------------------
+1.it is declared inside the class and outside the method.
+2.it get activated when the control enters to the class and de-activated when the control exits the class.
+3.it is stored in static memory
+4.we can declare any access specifier for the static variable
+5.we no need to initialize the value for static variable it take default value automatically

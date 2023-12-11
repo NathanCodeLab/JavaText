@@ -1,0 +1,35 @@
+Java questions:
+================
+diff between abstract class and interface
+diff between list and set
+What is map?
+String is immutable or mutable?  Why?
+Difference method overloading and overriding?
+Differenece between public and protected?
+Difference between private and default?
+Difference between StringBuffer and StringBuilder?
+What is enscapsulation?---------------POJO
+What is mean by static and Non static?
+Difference between this and super?
+Difference between final,finally and finalize or garbageCollector?
+Difference between HashMap and Hashtable?
+Types of variables?
+Difference between Array and ArrayList?
+What is inheritance?
+Purpose of constructors?
+Constructor chaining?
+Why constrcutor is a implicit call or how come it is invoking when object is created?
+Difference between error and exceptions?
+What is Exceptions?
+Tell me some exceptions in Selenium or real time exceptions?
+How to handle the exceptions?
+What is mean by try,catch and finally?
+Diff between throw and throws?
+Tell me the types of exceptions in java?
+Types of Strings?
+
+
+
+
+
+

@@ -1,0 +1,38 @@
+Core Java Syntax questions:
+1.single inheritance code
+2.Multilevel inheritance code
+3.Method overloading code
+4.Method overriding code
+5.Interface code
+6.Abstact class code
+7.Multiple inheritance through interface
+
+8.Create List,insert values and iterate
+9.Create set,insert values and iterate
+10.Create Map,insert values and iterate only the entries
+11.Create Map,insert values and iterate the key and values.
+12.Create Map,insert values and iterate  only keys
+13.Create Map,insert values and iterate only values
+
+
+
+14Create Userdefind List,insert values and iterate
+15.Create Userdefind Set,insert values and iterate
+16.Create Userdefind Map,insert values and iterate
+
+
+17.Create constructor and pass arguments
+18.Create constructor and pass arguments using this()
+19.Create constructor and pass argumentsusing super()
+20.write any 5 unchecked exception and checked exception
+
+
+
+
+
+
+21.Handle the exception using try,catch and finally
+22.Write code for user defined Exception
+
+
+23.JDK 1.5 and 1.7 features

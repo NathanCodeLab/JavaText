@@ -1,0 +1,17 @@
+Disadv of array:
+-----------------
+Memory wastage is high due to compile time memory allocation
+Array size is fixed.
+Dissimilar datatypes are not accepted
+
+for:
+.............
+It is based on index
+we canapply conditions
+There is possibility of occuring indexoutofboundsException
+
+Enhanced for:
+-------------------
+It is based on values 
+we cannot apply conditions
+there is no posibility of occuring indexoutofboundaryException

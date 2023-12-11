@@ -1,0 +1,45 @@
+Scanner class
+==============
+Get the input from the user at the run time.
+It is present in package java.util
+scanner is a Predefined class.
+
+java default package of java.lang
+
+Syntax
+========
+Scanner objName=new Scanner(System.in);
+
+objName.scannerMethod();
+
+ScannerMethods
+==============
+int-----nextInt();
+byte---nextByte();
+short---nextShort();
+float--nextFloat();
+long---nextLong();
+String---next();
+String----nextLine();
+nextBoolean();
+nextDouble();
+
+nextLine
+========
+It accept the space.
+
+next
+======
+It ignore the space.        
+
+
+
+
+
+
+
+
+
+
+
+                                                                       

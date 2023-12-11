@@ -1,0 +1,73 @@
+Collection:
+--------------
+Storing multiple values  of dissimilar datatype in a single ref name
+memory wastage is low due to memory is allocated at run time
+
+List:Interface
+----------
+List is an index based
+List allows duplicate
+List prints in insertion order
+
+Types of list: 
+--------------
+OR
+classes of list:
+----------------
+ ArrayList
+ LinkedList
+ Vector
+
+kindly copy the notes:
+Set:Interface
+-----
+It is a value based one.
+It does not allow duplicates.
+Does not maintain any order.Depending upon the classes the execution order will vary.
+
+Types of Set
+--------------
+classes of Set
+----------------
+HashSet--random
+LinkedHashSet--insertion
+TreeSet--ascending order
+---------------------------------
+
+Methods not supported in Set - add(index,value), indexOf, lastIndexOf, 
+get, set
+
+
+
+
+Generics:
+-----------
+support only similar datatype
+jdk 1.5 version
+< >---Generics----->inside the generics we need to pass only wrapper class
+super class of all datatype is wrapper class
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

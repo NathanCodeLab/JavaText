@@ -1,0 +1,52 @@
+Types of String:
+----------------
+1.Literal String
+2.Non Literal String
+
+
+1.Literal String:
+-----------------
+	It store the values inside the string pool/constant(present inside the heap memory)
+	In case of duplicates it will allocate same memory location.
+	String s="welcome";
+
+2. Non Literal String:
+----------------------
+	It stores the values inside the heap memory.
+	In case of duplicates it will allocate different memory location.
+	String s=new String("welcome");
+
+
+Immutuable String:(Literal String)--it acts like literal string
+-----------------
+	It store the values inside the string pool/constant
+	In case of duplicates it will allocate same memory location.
+	Can't change the value in memory location.
+	For joining two string,concat is used.---its takes different memory location.
+	String s="welcome";
+
+Mutuable String:(Non Literal String)--it act like non-literal string
+---------------------
+	It stores the values inside the heap memory.
+	In case of duplicates it will allocate different memory location.
+	Can change the value in memory location.
+	For joining two string append-(m) is used.----if your joing two string,it will take the memory of the first string which we joined.
+	StringBuffer s=new StringBuffer("welcome");
+			or
+	StringBuilder s=new StringBuilder("welcome");
+
+
+
+StringBuffer-c					StringBuilder-c
+--------------------------------------------------------------
+Synchronous-Sequential(stepbystep)		Asynchronous-Parallel
+Threads are safe				Threads are not safe
+Slow access					Faster access
+
+
+
+
+
+
+
+

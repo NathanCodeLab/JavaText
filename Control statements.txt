@@ -1,0 +1,112 @@
+Control statements:
+-------------------
+Used to Control the execution of program
+
+Conditional/selection statements(if,if else,else if,nested if)
+Looping/iteration statements(For loop,while loop and do while loop)
+Jump statemnts(break,continue,return)
+
+If statemnt:
+------------
+
+syntax:
+-------
+true/satisfied
+if(condition)
+{
+block of stmts;
+}
+
+If else statemnt:
+------------
+
+syntax:
+-------
+//true/satisfied
+
+if(condition)
+{
+block of stmts;
+}
+else{
+block of stmts;
+}
+
+Logical AND:(&&)
+----------------
+It will check the 1st condition, if the 1st condition is true/satified only then it will check the 2nd condition and if both are satisfied then it will print the stmts inside if block.
+If the 1st condition is false/not satisfied then it will direct print the stmts inside else block.
+
+Bitwise AND(&)
+--------------
+It will check for both the conditions even if the 1st condition is false still it checks the 2nd conditions and prints the stmts inside else block.
+If conditions are satisfied then it will print the stmts inside if block.
+
+AND Operator:
+-------------
+Condition
+Input 1 Input 2 Output
+----------------------
+1	1	1(if stmts)
+0	1	0(else stmts)
+1	0	0(else stmts)
+0	0	0(else stmts)
+
+Logical OR:(||)
+---------------
+It will check the 1st condition,if the 1st condition is true then directly it prints the stmts inside if block.
+If the 1st conditions is false/not satisfied then it will chk for the 2nd condition and if it is satisfied then it will print the stmts inside if block else it will print the stmts inside else block
+
+Bitwise OR(|)
+--------------
+It will check for both the conditions even if the 1st condition is false still it checks the 2nd conditions and prints the stmts inside else block.
+If conditions are satisfied then it will print the stmts inside if block.
+
+Condition
+Input 1 Input 2 Output
+----------------------
+1	1	1(if stmts)
+0	1	1(if stmts)
+1	0	1(if stmts)
+0	0	0(else stmts)
+
+Nested if:
+----------
+
+if(condition)---------------------->Outer if
+{
+	if(Condition)-------------->Inner if
+	{
+	block of stmts;
+	}
+	else----------------------->Inner else
+	{
+	block of stmts;
+	}
+}
+else------------------------------->Outer else
+{
+block of stmts;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

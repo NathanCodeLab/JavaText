@@ -1,0 +1,19 @@
+SET: Interface
+
+ - Does not allow duplicates
+ - Value based one
+ - Normal forloop cannot be used
+ 
+
+HashSet --> Random
+LinkedHashSet --> Insertion Order
+TreeSet --> Ascending Order
+
+Method that doesnt supported in SET:
+
+li.get(index);
+li.add(index, Value);
+li.remove(index);
+li.set(index, Value);
+li.indexOf(Value);
+li.lastIndexOf(Value);

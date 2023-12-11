@@ -1,0 +1,72 @@
+String: predifined class
+********
+-->String is a predefined class that is present in default package(java.lang)
+-->It is a collection of characters/letters enclosed within the double quotation.
+-->In String the characters can be stored based on the index.
+-->The index will start from 0 and ends with n-1.
+-->length--starts with 1 to n.
+EX:
+welcome
+0123456-->index
+1234567-->length
+syntax:
+======
+String refName="value";
+String s="Hello";
+
+Methods:
+========
+1.charAt(index)-->It is used to find the particular index value.h
+2.indexOf(value)-->It is used to find the index of the particular value.
+3.toUpperCase()-->To convert String to its Upper Case.
+4.toLowerCase()-->To convert String to its Lower Case.
+5.isEmpty()-->To check whether the string is empty or not.
+6.startsWith(value)-->to check whether the string starts with the particular value.
+7.endsWith(value)-->to check whether the string ends with the particular value.
+8.lastIndexOf(value)-->To find the last index of the particular value.
+9.contains(value)-->To check whether the string contains the particular value or not
+10.equals()-->To compare 2 strings and it is case sensitive.
+11.equalsIgnoreCase()-->To compare 2 strings and it is not a case sensitive.
+12.compareTo()-->To compare 2 strings based on ASCII value.
+13.length()-->To find the length of the given string.
+14.replace(old,new)-->to replace one char or word into another char or word.
+15.replaceAll(old,new)-->to replace all the occurence of one char or word into another char or word.
+16.trim()-->to remove spaces present before and after the words.
+17.subString(start Index)-->To start with particular index value.
+18.subString(start Index,end Index)-->To start with and ends with the particular index value.
+
+
+
+java
+0123
+4-->0 to 3
+
+selenium
+01234567
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

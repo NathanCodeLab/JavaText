@@ -1,0 +1,31 @@
+File operations/File Handling
+------------------------------
+
+File-->Class
+
+java.io-->package
+
+Methods:
+--------
+mkdir()--->To create a directory(folder)
+mkdirs()-->To create multiple directories(folders)
+
+createNewFile()-->To create a File
+
+isFile()-->To Check whether it is file or not
+isDirectory()-->To check whether it is a directory or not
+
+canWrite()-->To check whether we can write into a file
+canRead()-->To check whether we can read a file
+canExecute()-->To check whether we can execute a file
+
+FileUtils--C
+------------
+method
+-------
+write(fileRef,data)
+
+append-->true	write(fileRef,data,true)-->appends the content
+append-->false 	write(fileRef,data,false)-->overwrites the content
+
+readlines()-->To read the content from the file-->returns List<String>

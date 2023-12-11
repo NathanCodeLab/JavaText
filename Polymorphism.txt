@@ -1,0 +1,57 @@
+Polymorphism
+-------------
+Executing methods in more than one forms or taking more than one forms or completing one task in different ways.
+
+poly--- many
+morphism ---forms
+
+Method overloading(compile time polymorphism)/ static binding/static polymorphism
+--------------------
+
+With the same method name you will create multiple methods and the methods differ based on the arguments and the arguments are different datatype,datatype count and datatype order.
+
+same class
+same method name
+diff parameter/arguments
+
+The arguments depends on datatype 
+The arguments depends on datatype order 
+The arguments depends on datatype number or count
+
+method overriding(runtime polymorphism) / dynamic binding/Dynamic polymorphism
+--------------------------
+Whenever you are not satisfied with the business logic of your parent class method,you will create the same method with same arguments in the child class and when you create the object reference and call the methods, the child class method will get the preference.So you are overiding the parent class method with the child class method.
+
+Same method name
+Same argument
+diff class
+
+
+Different arguments
+===================
+datatype              datatype order                datatype count
+---------             --------------                ---------------
+int                    int,int[ii]                      int
+char                   String,int[si]                   String,int
+String                                                  String,int,float
+short                  String,String[ss]
+String                 float,int[fi]
+float                  float,float[ff]
+double 
+
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+

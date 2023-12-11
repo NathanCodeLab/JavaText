@@ -1,0 +1,60 @@
+Java configuration and setup:
+................................
+goto google Jdk 1.8 download 
+Install jd
+verify jdk(cmd)...> java-version
+Download eclipse as zip[url:http://www.eclipse.org/downlads/packages/]oxygen 3A
+[Zip]        
+
+
+8939422151-abarna
+Java    
+
+OOps
+.............
+Object oriented programming structure
+
+It is method of implemenation in which program is organised in a collection of class,objects and methods.
+
+object-run time memory allocation
+method -set of actions to be performed/business logic
+class- collections of object and methods
+Abstraction
+Inheritance
+polymorphism
+Encapsulation
+
+
+Standard notation or coding standards:
+
+----------------------------------
+
+Pascal notation/initcap notation:
+.................................
+Each word's first letter should be capitial
+
+eg:GreensTechnologySolutionLimited
+
+followed in : projectname,classname
+
+............................................
+
+camelNotation
+
+First letter of first word should be small remaining each word's first letter should be capitial
+
+eg: greensTechnologySolutionLimited
+
+followed in : object name,methodname and variable name.
+
+
+object creation:
+=====================
+classname object name=new classname();
+
+eg:bank b=new bank();
+
+
+
+
+

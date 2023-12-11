@@ -1,0 +1,36 @@
+Map: I
+
+Key and Value combination
+Key does not allow duplicate
+Value allows duplicate
+
+
+Map<key,value> ref = new AnyClassOfMap<key,value> ();
+
+Types of Map/classes of Map
+----------------
+HashMap---random
+LinkedHashMap--Insertion 
+TreeMap---Ascending 
+HashTable--Random 
+
+put(key,value)
+size();
+containsKey()
+containsValue()
+get(key)
+keySet()
+values()
+entrySet()
+getKey()
+getValue()
+
+				Array List		Linked List
+Insertion and deletion  - 	Difficult		Easy
+Searching		-	Easy			Difficult
+
+
+Array List		Vector
+===================================
+Asynchronus		Synchronous
+Non Thread Safe		Thread Safe

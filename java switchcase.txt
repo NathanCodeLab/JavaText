@@ -1,0 +1,26 @@
+switch case statement:
+
+switch(key){
+case 1:
+
+-------------
+
+case 2:
+
+--------------
+
+case 3:
+
+----------
+
+default:
+
+------------
+}
+
+Jumping statements
+-------------------------------
+break----->used to terminate the loop
+continue----> used to skip particular condition and proceed the remaining loop
+System.exit()---->used to terminate from main group(program)
+

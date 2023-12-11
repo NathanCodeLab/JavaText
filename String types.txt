@@ -1,0 +1,51 @@
+String Types
+------------
+Literal String 
+Non literal String 
+Immutable
+Mutable
+Empty
+Null
+
+System.identityHashCode(s)-> Tell the memory address
+
+Literal 
+--------
+String s="welcome";
+Incase of the duplicate, it will share the memory
+It is stored inside string pool constant
+
+Non Literal
+---------------
+String s1 =new String ("welcome");
+Incase of duplicate it will not store or share the same memory location
+It is stored in the heap memory
+
+Immutable
+---------
+same as the literal string
+String s="welcome";
+we use concat method
+While join or any action on the immutable String, it will not share/retain the previous string memory value
+
+Mutable
+-------
+same as non-literal string but use StringBuffer or StringBuilder instead of String
+StringBuffer s=new StringBuffer("welcome");
+use append method
+While join or any action on StringBuffer or StringBuilder, it will share/retain the previous string memory value
+
+
+StringBuffer 
+============                             
+        
+Synchronous --> Sequential 
+Threadsafe
+slow                                                                     
+
+StringBuilder
+=============
+
+Asynchronous --> Non Sequential
+Non Thread safe
+fast

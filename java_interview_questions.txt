@@ -1,0 +1,38 @@
+Level 1 Java Interview Questions:
+========================================
+1.What is OOPS?
+2.What is encapsulation?
+3.What is inheritance?
+4.What are advantage of inheritance?
+5.is multiple inheritance supported in java?if yes -how?
+6.What is method overloading?
+7.What is method overriding?
+8.What is String? Methods available in String and its return type?
+9.diff between literal and non-literal string?
+10.diff between mutable and immutable string?
+11.diff between StringBuffer and StringBuilder?
+12.diff between String and StringBuffer?
+13.diff between local varible and global variable(class/instance variable)
+14.diff between constructor and method
+15.why constructor is an implicit call?(how it is getting invoked automatically)
+16.use of this() and super() method
+17.use of this and super keyword
+18.diff between array and arraylist
+19.diff between array and collection
+20.diff between arraylist and linked list
+21.diff between arraylist and vector
+22.diff between list,set and map
+23.Types of list,set and map
+24.diff between keyset() and entryset()
+25.what is exception and how will you handle the exception
+26.diff between throw and throws
+27.What is try,catch and finally block
+28.difference between final,finally and finalize
+29.what is the use of static keyword
+30.what is the use of final keyword
+31.what is the use of singleton pattern
+32.methods supported in list and not supported in set
+33.diff between public and private
+34.diff between protected and default
+35.what is the use of abstract keyword
+

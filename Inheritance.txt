@@ -1,0 +1,40 @@
+Inheritance
+------------
+we can accesss one class property from another class.
+uses keyword extends
+
+Why?
+--------
+To reduce memory wastage 
+reusable code purpose .
+
+Types of  inheritance
+----------------------
+single inheritance
+Multiple inheritance
+Multilevel inheritance
+Hybrid inheritance
+Hierarchial inheritance
+
+single inheritance:
+-------------------------
+combination of one parent and one child class
+
+multiple inheritance:
+-------------------------
+more than one parent will access one child parallel at a time
+
+multilevel inheritance:
+-------------------------
+more than one parent will access one child  in a tree like structure
+
+
+Hierarchial inheritance
+-------------------------------
+Combination of more than one child and one parent
+
+Hybrid inheritance:
+-------------------------------
+Combination of multiple and single inheritance.
+
+

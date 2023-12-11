@@ -1,0 +1,114 @@
+if else stmt:
+-------------
+
+if(condition)
+{
+block of stmts;
+}
+else
+{
+block of stmts;
+}
+
+AND Operator:
+-------------
+Condition
+Input 1 Input 2 Output
+-----------------------
+1	1	1(if stmts)
+0	1	0(else stmts)
+1	0	0(else stmts)
+0	0	0(else stmts)
+
+Logical AND(&&)
+---------------
+
+If the 1st condition is not satisfied then it will print the stmts inside else block.
+If the 1st condition is satisfied then it will check for the 2nd condition and if the 2nd condition is not satisfied then it will print the stmts inside else block.
+If the 1st condition is satisfied then it will check for the 2nd condition and if the 2nd condition is satisfied then it will print the stmts inside if block.
+
+Bitwise AND &
+-------------
+
+If the 1st condition is not satisfied still it checks the 2nd condition and then prints the stmts inside else block.
+If the 1st condition is satisfied and the 2nd condition is also satisfied then it will print the stmts inside if block.
+If both the conditions are not satisfied then it will print the stmts inside else block.
+
+OR Operator:
+-------------
+Condition
+Input 1 Input 2 Output
+-----------------------
+1	1	1(if stmts)
+0	1	1(if stmts)
+1	0	1(if stmts)
+0	0	0(else stmts)
+
+Logical OR(||)
+---------------
+
+If the 1st condition is not satisfied then it will check the 2nd condition and if it is satisfied then it print the stmts inside if block.
+If the 1st condition is satisfied then it will check for the 2nd condition and if the 2nd condition is not satisfied then it will print the stmts inside if block.
+If the 1st condition is satisfied then it will check for the 2nd condition and if the 2nd condition is satisfied then it will print the stmts inside if block.
+If both the conditions are not satisfied then it prints the stmts inside else block
+
+Bitwise OR |
+-------------
+
+If the 1st condition is not satisfied still it checks the 2nd condition and and if it is satisfied then prints the stmts inside if block.
+If the 1st condition is satisfied and the 2nd condition is also satisfied then it will print the stmts inside if block.
+If both the conditions are not satisfied then it will print the stmts inside else block.
+If the 1st condition is satisfied and the 2nd condition is not satisfied then it will print the stmts inside if block.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

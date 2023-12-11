@@ -1,0 +1,64 @@
+
+Project creation:
+.............................
+File....>new....>javaproject....>projectname(pascal notation)....>finish
+
+package creation:
+.....................
+src....>right click ...>new....>package...>package name(org or com)...>
+
+class creation:
+...............
+packagename..>rightclic...>new.....>class...>className(pascalnotation)...>finish
+
+Javaproject
+File....>new....>other..>typejava....>clic java project....>give projectname(pascal notation)....>finish
+
+create Package and classname
+righclic src...>New ...>class....> mention the package name like com.hdfc or org.hdfc and mention the class name in pascal notation
+
+
+Object creation :
+..............................
+Classname objectname=new classname();
+eg:
+hdfcbank h=new hdfcBank();
+
+Method call:
+..............................
+objname.methodname();
+
+
+
+
+OOps
+.............
+Object oriented programming structure
+It is method of implemenation in which program is organised ia a collection of class,objects
+ and methods.
+
+class
+method 
+object
+
+
+method syntax:
+..........................
+private void methodName(){
+}
+
+object syntax:
+...........................
+classname objectname=new className();
+
+
+exectution start in main
+
+ Method calling:
+...................
+objectName.methodName();
+
+
+same pacage with differnt class
+
+

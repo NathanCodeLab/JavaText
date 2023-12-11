@@ -1,0 +1,24 @@
+Java 
+
+simple programming language
+easy to run and debug
+
+java main features:
+open source:cost free
+multithreading:it will do multiple task
+protable--easy to access
+more secure
+
+
+
+jdk--Java Development Kit======without jdk java programme will not work
+
+   jdk===1.15 version
+ stable version:
+  1.7 or 1.8java
+how to verify jdk is installes or not
+  cmd==java -version
+
+ JRE====Java Runtime Environment---------contains predefined files and lib
+ JVM====Java Virtual Machine----------memory allocation----(object)
+

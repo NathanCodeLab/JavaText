@@ -1,0 +1,91 @@
+singleton:copy this notes
+single object creation and after creating the object we are going to override the object.
+
+class----only one object---use that same object
+
+
+------------------------------------
+return types:
+1)if you have the result of your method call in object means you have to give the classname as the returntype
+2)if you call the result of the method call in one variable ,you have to give the datatype as the return type.
+
+steps for single object
+1.create method
+2.we are going to give condition for object creation
+3.we have to declare object.--create obj as variable and classname as return type.
+
+
+
+        int      age---variable(datatype)
+        classname   object---obj--if you declaring as var means-----you have to give classname---(return type)
+
+
+
+
+
+
+if(obj==null)-----if there is no obj creation for my class ,create new obj;
+
+    {
+    
+ obj=new Employee();---------when obj is created --------use the same obj----return the same obj;
+}
+return obj----will return the same obj
+
+
+
+
+
+
+
+       int obj--variable----datatype/returntype
+     classname      obj--object-----classname/returntype
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

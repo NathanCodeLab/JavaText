@@ -1,0 +1,59 @@
+Array
+=====
+We can store multiple values of similar datatypes in a single variable
+Similar datatypes	
+Index based
+Index starts from 0 to n-1.
+
+Array syntax
+=============
+
+DataType variable [ ] = new Datatype [length];
+
+int a[] = new int [4];
+a[0] = 10;
+a[1] = 20;
+a[2] = 30;
+a[3] = 40;
+
+Enhanced for loop/ for each
+============================
+
+for(DataType NewVariable : StoredVariable){
+sysout(NewVariable);
+}
+
+
+for(String x:s)
+{
+sysout(x);
+}
+
+2D Array
+==========================
+DataType variable [ ] [ ] = new Datatype [size] [size];
+
+DisAdvantages of
+------------------
+We can store only the similar datatypes
+once we fixed the size we cant modified
+memory wastage is high
+
+default value:
+===============
+byte 0
+short 0
+int 0
+long 0
+float 0.0
+double 0.0
+char ' '
+String null
+boolean false
+
+normal							enhanced forloop (for each)
+
+index based						value based
+condition can be  set					no condition
+start from any	iteration				no intialization
+Chances of getting index out of bound exception		no chance of error

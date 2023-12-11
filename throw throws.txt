@@ -1,0 +1,9 @@
+Throw                                                                          Throws
+
+*throw is used to create any of the exception manually              *throws is used for supressing the exception
+
+*throw is declare inside the method body                             *throws is declare in method definition
+
+* only one throw can use at a time                                  * more than one throws can use at time
+
+user defined exception:

@@ -1,0 +1,44 @@
+Exception :
+----------------------
+It is like a error,Whenever it occur the program will terminate itself.
+
+Types of exception:
+-------------------
+unchecked 
+checked
+
+unchecked exception[run time]
+-------------------
+*Arithmetic Exception
+*null pointer exception
+*Input mismatch exception
+*ArrayIndexOutofbounds exception
+*StringIndexOutofbounds exception
+*IndexOutofbounds exception
+*NumberFormat Exception
+
+checked exception[compile time]---there is no solution for the compiletime exception
+-----------------
+*File not found exception--no file found
+*IO exception--inputoutputException---in a file if your searching for a data to read--if that data is not found at that time
+*sql exception--if we try to search for a table(row,clmn),data about person--if that data is not found at that time sqlException will occur
+*Class not found exception---if class is not found,when we try to inherit(extends)
+
+exception handling
+------------------
+super class of allexception is Exception/trowable
+try-->The stmts that is causing exception--error lines of code
+catch-->We give the solution for the exception and catch the Exception--gives the solution to the exception
+finally-->We give the important business logic/stmts.Even if there is any exception it will execute the stmts in finally block
+Throw
+Throws
+
+
+
+
+
+
+
+
+
+

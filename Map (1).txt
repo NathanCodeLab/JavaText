@@ -1,0 +1,39 @@
+Map---(Interface)
+------
+
+key,value pair combination
+
+key dont allow duplicates(unique)
+values allow duplicates
+
+
+Types of map(based upon the classes its going to print the values)
+-------------
+HashMap----Random ---->  key=1 null ,values= n null(n number of null values accepted)
+LinkedHashMap----Insertion---->key=1 null, values= n null
+TreeMap----Ascending order---->key=ignore null ,values= n null
+HashTable----------Random---->key=ignore null ,values= ignore null
+
+Methods of map
+----------------
+put()-- Adding the key,values
+get(key)----displaying the corresponding values
+values()----displaying the values only and its return type is collection. 
+keySet----display the key  only and its return type is set.
+entrySet--for iterating the map and its return type is set<entry<>>
+
+
+
+Difference between hashtable and hashmap
+-----------------------------------------
+hashmap:
+-----------
+*Asynchronous(parallel execution)
+*key allow 1 null in key
+*non thread safe
+
+HashTable
+----------
+*synchronous(one by one execution process)
+*ignore null values in key and values.
+*thread safe 

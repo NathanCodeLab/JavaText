@@ -1,0 +1,39 @@
+Constructor:
+----------------
+It is similar to method but it will get invoked automatically when object is created.
+ Rules:
+Class name & Constructor name should be same. 
+Constructor does not have any return type.
+we need not call the constructor,instead it will get invoked automatically when an object is created.
+
+Syntax:
+=======
+
+public constructor_name()
+{
+
+
+}
+
+Types:
+======
+1)Non-Parameterized constructor/default constructor.(arguments)
+2)Parameterized constructor/argument based constructor.
+
+Why we go for constructor chaining:
+-----------------------------------
+To reduce the number of object creation and memory wastage we go for constructor chaining.
+
+Constructor chaining:
+---------------------
+It is the process of linking one constructor with another constructor and executing them with current object creation is called constructor chaining.
+
+using 'this' keyword constructor chaining can be achieved
+It should be present in the first line of the constructor.
+It is used for only class level constructor.
+
+using 'super' keyword constructor chaining can be achieved
+It should be present in the first line of the constructor.
+It is used for linking parent class para constructor.
+
+

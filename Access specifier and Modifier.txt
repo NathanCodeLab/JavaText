@@ -1,0 +1,43 @@
+Access specifier
+================
+It helps to set the level of access
+
+private--class level access specifier
+default--package level  access specifier
+Protected--samepackage we can access using both (extends,object)+different package  we can access using (extends)
+public--samepackage(extends,object)+different pacakge(extends,object)
+
+
+Access modifier:
+=-==============
+Abstract
+static
+final
+
+Abstract:
+----------
+
+Class level-cant create the object 
+method level-Cant write the business logic
+Variable level-Cant declare(Compile time error)
+
+static:
+--------
+Class level-Cant declare(Compile time error)
+Method level-No need of obj creation-Same class-method name is itself enough to call
+				     diff class-ClassName.methodName to call the method
+
+Variable level-Variable name is itself enough to use and need not initialize any value because it will assign default value automatically.	
+
+
+final:
+-------
+Class level-Cant inherit the class
+method level-Cant override the method
+variable level-Cant change the value
+
+	
+
+
+
+

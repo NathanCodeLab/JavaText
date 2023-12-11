@@ -1,0 +1,29 @@
+Array-non-premitive datatype
+================
+It is used to store multiple values of similar datatype in a single reference.
+
+Similar datatypes
+Index based
+Index starts from 0 to n-1.
+
+Array syntax
+=============
+
+DataType variable [] = new Datatype [size];--once you allocate the size it stars to allocate the memory
+
+
+Enhanced for loop/ for each
+============================
+
+for(DataType NewVariableName: old/Stored Variable){
+business logic;
+}
+
+==========================
+
+2-D Array:  
+----------
+
+Syntax:
+-------
+DataType variable [][] = new Datatype [row size][column size];

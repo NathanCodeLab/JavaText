@@ -1,0 +1,38 @@
+String
+======
+* Collections of character or word enclosed within double quotes is called as String.
+* String is a predefined class.
+* It is presented in java.lang package. (Default Package)
+* It is based on index. ---> 0 to n-1
+
+String s ="Java";
+
+String Methods:
+===============
+length();
+toUpperCase();
+toLowerCase();
+
+indexOf('char');
+lastIndexOf('char');
+charAt(index);
+
+equals(stringVariable);
+equalsIgnoreCase(stringVariable);
+
+contains("String")
+replace("String1","String2")
+
+startsWith("Welcome")
+endsWith("class")
+isEmpty()
+trim()
+
+split("String");
+substring(index);
+
+
+
+9884853462
+ur name
+Attended String Session
